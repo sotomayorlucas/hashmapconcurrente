@@ -1,0 +1,8 @@
+Para correr la vm usamos Valgrant con base en VirtualBox. Para correrla hay que abrir la terminal en esta carpeta (tp1so) y ejecutar:
+
+vagrant up
+vagrant ssh
+
+Los archivos del tp están en /home/tp
+
+En la carpeta scripts hay 2 scripts que usamos para testear el código
